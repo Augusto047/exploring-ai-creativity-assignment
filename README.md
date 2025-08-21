@@ -1,4 +1,4 @@
-# Final Pitch Deck: NexaNova
+# Final Pitch Deck: NexaNova 
 
 ### About the Project
 
