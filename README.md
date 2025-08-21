@@ -10,6 +10,8 @@ The work involved developing a structured approach to branding and client outrea
 
 * **NexaNova.pdf**: The final version of the pitch deck, exported from Canva to PDF format for submission.
 * **README.md**: This document, which provides an overview of the project and its context.
+* **Interactive Version:** The original pitch deck, created and hosted on Canva.
+  [View on Canva](https://nexanova-pitch.my.canva.site/augusto-mate)
 
 ### About the Author
 
