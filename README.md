@@ -1,27 +1,42 @@
-# Final Pitch Deck: NexaNova 
+# 📘 Final Pitch Deck: NexaNova
 
-### About the Project
+## 🧠 About the Project
 
-This repository contains the final pitch deck for the **"Exploring AI with Creativity"** assignment, a project focused on creating a digital branding agency powered by artificial intelligence.
+This repository contains the final pitch deck for the **Exploring AI with Creativity** assignment, part of the *AI Safari Camps* program.  
+The project presents **NexaNova**, a conceptual digital branding agency powered by artificial intelligence.
 
-The work involved developing a structured approach to branding and client outreach, utilizing AI tools such as **ChatGPT** to generate brand stories and marketing copy, and **Canva Magic Media** to create logos, graphics, and other visual materials.
-
-### Repository Contents
-
-* **NexaNova.pdf**: The final version of the pitch deck, exported from Canva to PDF format for submission.
-* **README.md**: This document, which provides an overview of the project and its context.
-* **Interactive Version:** The original pitch deck, created and hosted on Canva.
-  [View on Canva](https://nexanova-pitch.my.canva.site/augusto-mate)
-
-### About the Author
-
-* **Augusto Mate**
-* **Email:** mate.augusto.mz@gmail.com
+It explores how generative AI tools can be used to craft brand identity, messaging, and visual assets — all without requiring technical expertise.
 
 ---
 
-### **Instructions for Evaluators**
+## 🛠️ Tools & Methodology
 
-To ensure a proper submission, please use the **`Releases`** link on the top right side of the repository. There, you will find the final project version in a `.zip` file, ready to be downloaded and reviewed.
+- **ChatGPT** — Used to generate brand stories, naming strategies, and marketing copy.  
+- **Canva Magic Media** — Applied to create logos, mockups, and presentation visuals.  
+- **No-code workflow** — Demonstrates creative automation without programming.
 
-This delivery method demonstrates the use of standard software development practices, ensuring a more efficient and organized evaluation process.
+---
+
+## 📂 Repository Contents
+
+- `NexaNova.pdf` — Final pitch deck exported from Canva in PDF format.  
+- `README.md` — This document, providing project overview and submission context.  
+- **Interactive Version** — [Hosted on Canva](https://nexanova-pitch.my.canva.site/augusto-mate).
+
+---
+
+## 👤 About the Author
+
+- **Name**: Augusto Mate  
+- **Email**: mate.augusto.mz@gmail.com
+
+---
+
+## 📦 Instructions for Evaluators
+
+To access the final submission, please use the **Releases** section (top-right of this repository).  
+There you’ll find a `.zip` archive containing all final assets, structured for academic review.
+
+This delivery method reflects standard software development practices, ensuring clarity, traceability, and professional presentation.
+
+---
