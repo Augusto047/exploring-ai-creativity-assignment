@@ -20,7 +20,8 @@ It explores how generative AI tools can be used to craft brand identity, messagi
 ## 📂 Repository Contents
 
 - `NexaNova.pdf` — Final pitch deck exported from Canva in PDF format.  
-- `README.md` — This document, providing project overview and submission context.  
+- `README.md` — This document, providing project overview and submission context.
+- `LICENSE.md` — MIT License for open-source distribution and academic reuse  
 - **Interactive Version** — [Hosted on Canva](https://nexanova-pitch.my.canva.site/augusto-mate).
 
 ---
